@@ -28,17 +28,28 @@
 // console.log(null === undefined); 
 // console.log(obj === null);  
 // console.log(obj === undefined); 
-console.log(4 > 3) //true
-console.log(4 >= 3) //true
-console.log(4 < 3) //false
-console.log(4 <= 3) //false
-console.log(4 == 4) //true
-console.log(4 === 4) //true
-console.log(4 != 4) //false
-console.log(4 !== 4) //false
-console.log(4 != '4') //false
-console.log(4 == '4') //true
-console.log(4 === '4') // false
+
+// console.log(4 > 3) //true
+// console.log(4 >= 3) //true
+// console.log(4 < 3) //false
+// console.log(4 <= 3) //false
+// console.log(4 == 4) //true
+// console.log(4 === 4) //true
+// console.log(4 != 4) //false
+// console.log(4 !== 4) //false
+// console.log(4 != '4') //false
+// console.log(4 == '4') //true
+// console.log(4 === '4') // false
 
 
+
+// const d = new Date()
+// let year = d.getFullYear()
+// let hour = d.getHours()
+// let minute = d.getMinutes()
+
+// console.log(year)
+// console.log(hour)
+// console.log(minute)
+// console.log(d)
 
