@@ -53,6 +53,10 @@
 // 		    resultat=nombre*i;
 // 			                  }
 // 		}
+
+
+
+
 //         console.log()
 // const person = {
 //     firstName: "John",
