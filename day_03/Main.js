@@ -74,11 +74,48 @@ const products = [
 //   }
 //   console.log(countries.find(pays));
 
-const a = {4, 5, 8, 9}
-const b = {3, 4, 5, 7}
-const countries = ['Finland', 'Sweden', 'Norway']
-const numbers = new set();
+// const a = {4, 5, 8, 9}
+// const b = {3, 4, 5, 7}
+// const countries = ['Finland', 'Sweden', 'Norway']
+// const numbers = new set();
 
+// const mySet = new Set();
+
+// for (let i = 0; i <= 10;i++){
+//     mySet.add(0 + i);
+//     console.log(mySet);
+// }
+
+// mySet.forEach(function(point){
+//   if(point.i > 3){
+//     mySet.delete(point)
+//     console.log(mySet)
+//   }
+
+// })
+
+// var intersection = new Set([...set1].filter(x => set2.has(x)));
+// console.log(intersection)
+
+const constants = [2.72, 3.14, 9.81, 37, 100]
+// const countries = ['Finland', 'Estonia', 'Sweden', 'Denmark', 'Norway']
+const rectangle = {
+  width: 20,
+  height: 10,
+  area: 200,
+  perimeter: 60
+}
+
+let e = constants[0]
+let pi = constants[1]
+let gravity = constants[2]
+let humanBodyTemp = constants[3]
+let waterBoilingTemp = constants[4]
+console.log(e)
+console.log(pi)
+console.log(gravity)
+console.log(humanBodyTemp)
+console.log(waterBoilingTemp)
 
 
 
